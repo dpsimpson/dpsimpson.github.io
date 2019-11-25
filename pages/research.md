@@ -4,7 +4,7 @@ title: Research
 description: Dan Simpson's research
 ---
 
-# Research Summary
+## Summary of contributions
 
 
 Throughout my career, my research has been inspired by the problems in spatial statistics. Datasets with a spatial or spatiotemporal components are increasingly being collected in fields as diverse as ecology, epidemiology, atmospheric science, fisheries science, and forestry. The main challenge emerging is the increasing size of modern datasets: bringing about a corresponding increase in the complexity of the associated statistical models. In this environment, there is a natural attraction to Bayesian (and particularly hierarchical) modelling, which provides a framework for building increasingly complex models.
@@ -15,17 +15,20 @@ My early work focused on extending the [R-INLA](http://r-inla.org/) open source 
 
 This desire to develop workflows for the R-INLA and [Stan](http://mc-stan.org/) communities has pushed my research beyond its initial focus on spatial models. I now have a significant body of research on modern methods for specifying (Simpson et al. 2016; Riebler et al. 2016; Fuglstad et al. 2018), interrogating (Gabry et al. 2018; Sørbye et al. 2018; Gelman et al. 2017), and justifying weakly informative prior distributions on parameters in LGMs. This aim has also inspired my recent research into visualization (Gabry et al. 2018; Vehtari et al. 2019a) and computational diagnostics (Yao et al. 2018; Talts et al. 2018; Vehtari et al. 2019a).
 
-## Spatial Modelling
+### Key papers: Spatial Modelling
 
-### Daniel Simpson, Janine Illian, Finn Lindgren, Sigrunn Sørbye and Håvard Rue. (2016). Going off grid: Computationally efficient inference for log-Gaussian Cox processes. Biometrika. 103(1): 49--70.  
+<u>Daniel Simpson, Janine Illian, Finn Lindgren, Sigrunn Sørbye and Håvard Rue. (2016). Going off grid: Computationally efficient inference for log-Gaussian Cox processes. Biometrika. 103(1): 49--70.  </u>
 
 This paper, incidentally one of the longest that Biometrika has ever published, has several major technical and practical contributions. Fundamentally, the paper re-considers the standard computational approximation of the log-Gaussian Cox process (LGCP) model. The aim of this was to find a form of the approximation that was better suited to finite dimensional Gaussian random fields (that is, random fields that are specified from a finite set of basis functions) such as those produced with the Stochastic Partial Differential Equation (SPDE) method of Lindgren et al. (2011). To do this, we applied direct quadrature to the LGCP likelihood. I then used theory from the inverse problems literature to bound the error in posterior computed using this approximate likelihood. This error bound contained an explicit rate, and as a corollary I derive the explicit rate for the convergence of the standard approximation, which was possibly an order of magnitude slower than our new approximation. A second major contribution to this paper was to provide explicit bounds on the convergence of the SPDE method in terms of the GRF being approximated and the approximation properties of the basis functions. This was a conclusion of the work we began in Simpson et al. (2012a-b).
 
-### Geir-Arne Fuglstad, Daniel Simpson, Finn Lindgren, and Håvard Rue. (2018). Constructing Priors that Penalize the Complexity of Gaussian Random Fields. Journal of the American Statistical Association. Volume 114(525), pp. 445–452.
+<u>Geir-Arne Fuglstad, Daniel Simpson, Finn Lindgren, and Håvard Rue. (2018). Constructing Priors that Penalize the Complexity of Gaussian Random Fields. Journal of the American Statistical Association. Volume 114(525), pp. 445–452.</u>
+
 This paper, written with my PhD student Geir-Arne Fuglstad, is the first investigation into principled prior distributions for Gaussian random fields (or Gaussian processes) in 3 or fewer dimensions that is broadly applicable. The only previous work on this topic was a mathematically and computationally difficult method for setting reference priors for a very small set of models that use Gaussian random fields. As well as using the PC prior framework to construct weakly-informative priors for the hyper-parameters, we also use appropriate asymptotic approximations to avoid complex and expensive design dependence in the resulting priors.
 
-### Haakon Bakka, Håvard Rue, Geir-Arne Fuglstad, Andrea Riebler, David Bolin, Elias Krainski, Daniel Simpson, and Finn Lindgren (2018). Spatial modelling with R-INLA: A review. WIRE Computational Statistics. Volume 10(6).
-Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue. (2019) Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA. CRC/Tayor and Francis Group.   This review paper and book are written by the research group that introduced both the SPDE method for scalable spatial modelling and the R-INLA software for fast approximate inference. They show the breadth of our work on this topic and demonstrate the ways that we have worked to make our research outputs available to the wider spatial modelling community.
+<u>Haakon Bakka, Håvard Rue, Geir-Arne Fuglstad, Andrea Riebler, David Bolin, Elias Krainski, Daniel Simpson, and Finn Lindgren (2018). Spatial modelling with R-INLA: A review. WIRE Computational Statistics. Volume 10(6).
+Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue. (2019) Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA. CRC/Tayor and Francis Group.</u>
+
+ This review paper and book are written by the research group that introduced both the SPDE method for scalable spatial modelling and the R-INLA software for fast approximate inference. They show the breadth of our work on this topic and demonstrate the ways that we have worked to make our research outputs available to the wider spatial modelling community.
 
 
 <!--
