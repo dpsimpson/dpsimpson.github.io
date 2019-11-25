@@ -4,6 +4,7 @@ title: Research
 description: Dan Simpson's research
 ---
 
+<b>All of my papers can be found on my [Google Scholar page](https://scholar.google.co.uk/citations?user=oQIKmWUAAAAJ&hl=en) and most are available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Daniel+Simpson&terms-0-field=author&classification-physics_archives=all&classification-statistics=y&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&size=50&order=-announced_date_first). </b>
 
 
 ## Summary of contributions
@@ -17,7 +18,6 @@ My early work focused on extending the [R-INLA](http://r-inla.org/) open source 
 
 This desire to develop workflows for the R-INLA and [Stan](http://mc-stan.org/) communities has pushed my research beyond its initial focus on spatial models. I now have a significant body of research on modern methods for specifying (Simpson et al. 2016; Riebler et al. 2016; Fuglstad et al. 2018), interrogating (Gabry et al. 2018; Sørbye et al. 2018; Gelman et al. 2017), and justifying weakly informative prior distributions on parameters in LGMs. This aim has also inspired my recent research into visualization (Gabry et al. 2018; Vehtari et al. 2019a) and computational diagnostics (Yao et al. 2018; Talts et al. 2018; Vehtari et al. 2019a).
 
-<b>All of my papers can be found on my [Google Scholar page](https://scholar.google.co.uk/citations?user=oQIKmWUAAAAJ&hl=en) and most are available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Daniel+Simpson&terms-0-field=author&classification-physics_archives=all&classification-statistics=y&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&size=50&order=-announced_date_first). </b>
 
 ### Key papers: Spatial Modelling
 
