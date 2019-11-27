@@ -42,6 +42,11 @@ Prior to my commencement at the University of Toronto, I was a Reader (Professor
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
+### Potential grad students and postdocs
+The PhD program in the Department of Statistics at the Univeristy of Toronto has a centralized application system. [The details can be found here.](https://www.statistics.utoronto.ca/graduate/phd-application-information) If you want to chat about potential PhD projects, please feel free to email me, but I have no control over admissions.
+
+Please contact me if you're looking for a postdoctoral position as I may have funding available. 
+
 ---
 
 
