@@ -31,6 +31,9 @@ I am the Canada Research Chair in Spatiotemporal Modelling and an Assistant Prof
 - Applications of statistics in environmental science (specifically modelling air quality) and global health (specifically modelling global maternal cause of death on a global scale).
 
 All of my papers can be found on my [Google Scholar page](https://scholar.google.co.uk/citations?user=oQIKmWUAAAAJ&hl=en) and most are available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Daniel+Simpson&terms-0-field=author&classification-physics_archives=all&classification-statistics=y&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&size=50&order=-announced_date_first).
+
+Considerably less serious writing, which mostly consists of strange jokes that only I find funny, can be found [on Andrew Gelman's blog](https://statmodeling.stat.columbia.edu/author/simpson/), which I inexplicably have the keys to.
+
 ### Bio sketch
 I have made major contributions to the understanding of computationally efficient methods in spatial statistics, and of how to specify prior distributions for complex Bayesian models. I have been a maintainer and developer on both the [R-INLA](http://r-inla.org/) and [Stan](http://mc-stan.org/) projects, which are widely used open source software projects popular in the applied statistics and scientific communities. I have also been a member of Stan’s leadership bodies, first the NumFOCUS board and then the Stan Governing Board that grew out from it.
 
