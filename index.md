@@ -12,7 +12,7 @@ keywords: Bayesian modelling, Spatial statistics, Prior distributions, Computati
         <div class="span5">
             Dan Simpson<br/>
             Email: simpson@utstat.toronto.edu<br/>
-            Office: Sidney Smith 6024A
+            Office: Sidney Smith 6026A
         </div>
 
         <div class="span2">
