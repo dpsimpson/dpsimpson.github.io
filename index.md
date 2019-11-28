@@ -37,7 +37,7 @@ Considerably less serious writing, which mostly consists of strange jokes that o
 ### Bio sketch
 I have made major contributions to the understanding of computationally efficient methods in spatial statistics, and of how to specify prior distributions for complex Bayesian models. I have been a maintainer and developer on both the [R-INLA](http://r-inla.org/) and [Stan](http://mc-stan.org/) projects, which are widely used open source software projects popular in the applied statistics and scientific communities. I have also been a member of Stan’s leadership bodies, first the NumFOCUS board and then the Stan Governing Board that grew out from it.
 
-Prior to my commencement at the University of Toronto, I was a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (a weird UK academic grade that's the lower of the two that map to Professor in the UK) at the University of Bath in the UK. I held postdoctoral positions at the  University of Warwick (CRiSM Fellow), the Norwegian University of Science and Technology (NTNU), University of Helsinki, and Umeå University.
+Prior to my commencement at the University of Toronto, I was a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (a weird UK academic grade that simultaneously maps to full professor in the US and Associate Professor in Australia because why should words have meaning) at the University of Bath in the UK. I held postdoctoral positions at the  University of Warwick (CRiSM Fellow), the Norwegian University of Science and Technology (NTNU), University of Helsinki, and Umeå University.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -56,7 +56,7 @@ Please contact me if you're looking for a postdoctoral position as I may have fu
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
-          <li><a href="https://github.com/dpsinpson">GitHub</a></li>
+          <li><a href="https://github.com/dpsimpson">GitHub</a></li>
 
       </ul>
   </div>

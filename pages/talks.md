@@ -12,7 +12,7 @@ First up we have a triptych of talks covering a pile of my current thoughts on B
 - [Placating pugilistic pachyderms: Proper priors prevent poor performance]({{ BASE_PATH}}/pages/talks/pc_priors_usyd_2019.pdf) (University of Sydney, 2019)
 
 
-Next up we have a three talks that cover some of the work I've done on spatial modelling. There's a lot more out there, but these are fairly representative talks.
+Next up we have three talks that cover some of the work I've done on spatial modelling. There's a lot more out there (in particular, I haven't put any talks on my favourite spatial paper [about log-Gaussian Cox processes](https://arxiv.org/abs/1111.0641)), but these are fairly representative talks.
 - [Sometimes having a continuous formulation is useful. Sometimes it isn't.]({{ BASE_PATH}}/pages/talks/spde_wollongong_2019.pdf) (University of Wollongong, 2019)
 - [With low power comes great responsibility: Challenges in modern spatial data analysis]({{ BASE_PATH}}/pages/talks/power_gothenburg_2015.pdf) (Chalmers University, Gothenburg, 2015)
 - [Practical spatial statistics: utilising the continuous Markov property]({{ BASE_PATH}}/pages/talks/spatial_reykjavik_2014.pdf) (University of Reykjavik, 2014)
