@@ -16,7 +16,7 @@ The fundamental idea of Bayesian statistics is that there is a unique, principle
 
 My early work focused on extending the [R-INLA](http://r-inla.org/) open source software for performing fast approximate inference on LGMs (Martins et al. 2013; Rue et al. 2017). My work particularly focused on improving the spatial capabilities of the R-INLA software (Simpson et al. 2012a, 2012b, 2016; Hu et al. 2013a, 2013b, 2015; Fuglstad et al. 2015a, 2015b; Bakka et al. 2018, 2019; Krainski et al. 2019). The tight integration between my research and the R-INLA user community has enabled me to focus on moving beyond individual research projects and attempt to develop a holistic “best practice” workflow in order to furnish applied statisticians with the computational and modelling tools they need to solve practical problems.  
 
-This desire to develop workflows for the R-INLA and [Stan](http://mc-stan.org/) communities has pushed my research beyond its initial focus on spatial models. I now have a significant body of research on modern methods for specifying (Simpson et al. 2016; Riebler et al. 2016; Fuglstad et al. 2018), interrogating (Gabry et al. 2018; Sørbye et al. 2018; Gelman et al. 2017), and justifying weakly informative prior distributions on parameters in LGMs. This aim has also inspired my recent research into visualization (Gabry et al. 2018; Vehtari et al. 2019a) and computational diagnostics (Yao et al. 2018; Talts et al. 2018; Vehtari et al. 2019a).
+This [desire to develop workflows](({{ BASE_PATH}}/assets/bayesian_workflow.pdf)) for the R-INLA and [Stan](http://mc-stan.org/) communities has pushed my research beyond its initial focus on spatial models. I now have a significant body of research on modern methods for specifying (Simpson et al. 2016; Riebler et al. 2016; Fuglstad et al. 2018), interrogating (Gabry et al. 2018; Sørbye et al. 2018; Gelman et al. 2017), and justifying weakly informative prior distributions on parameters in LGMs. This aim has also inspired my recent research into visualization (Gabry et al. 2018; Vehtari et al. 2019a) and computational diagnostics (Yao et al. 2018; Talts et al. 2018; Vehtari et al. 2019a).
 
 
 ### Key papers: Spatial Modelling
@@ -83,9 +83,6 @@ My applied work has focused mainly on using the methods that I have developed in
 3.	the error in satellite data products, especially when moving to space-time estimates,
 4.	dealing with measurement error in the ground monitors,
 5.	dealing with non-random placement of monitoring sites (the so-called preferential sampling problem).
-
-<u><b>Watch this space</b></u> for some exciting new applied work on cause of death estimation coming in the next six months!
-
 
 
 <!--
