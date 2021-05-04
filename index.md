@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Daniel Simpson
-description: Daniel Simpson is the Director of Analytics Outreach  and a Professor in the Department of Econometrics and Business Statistics at Monash University, Melbourne.
+description: Daniel Simpson is the Director of Analytics Engagement  and a Professor in the Department of Econometrics and Business Statistics at Monash University, Melbourne.
 keywords: Bayesian modelling, Spatial statistics, Prior distributions, Computational statistics, Applied Statistics
 ---
 
@@ -24,7 +24,7 @@ keywords: Bayesian modelling, Spatial statistics, Prior distributions, Computati
 </div>
 ---
 
-I am the Director of Analytics Outreach  and a Professor in the Department of Econometrics and Business Statistics at Monash University, Melbourne. My research interests include
+I am the Director of Analytics Engagement  and a Professor in the Department of Econometrics and Business Statistics at Monash University, Melbourne. My research interests include
 - Spatial and spatiotemporal models with computationally efficient Gaussian random fields (Gaussian processes),
 - Methods for building and assessing Bayesian models, including prior specification, model criticism, and model checking.
 - Computational statistics, including approximate inference methods (such as INLA), Markov chain Monte Carlo methods, and methods for assessing the quality of approximations to posterior distributions.
