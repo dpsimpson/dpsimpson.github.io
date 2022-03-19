@@ -24,20 +24,23 @@ keywords: Bayesian modelling, Spatial statistics, Prior distributions, Computati
 </div>
 ---
 
-I am the Director of Analytics Engagement  and a Professor in the Department of Econometrics and Business Statistics at Monash University, Melbourne. My research interests include
-- Spatial and spatiotemporal models with computationally efficient Gaussian random fields (Gaussian processes),
-- Methods for building and assessing Bayesian models, including prior specification, model criticism, and model checking.
-- Computational statistics, including approximate inference methods (such as INLA), Markov chain Monte Carlo methods, and methods for assessing the quality of approximations to posterior distributions.
-- Applications of statistics in environmental science (specifically modelling air quality) and global health.
 
-All of my papers can be found on my [Google Scholar page](https://scholar.google.co.uk/citations?user=oQIKmWUAAAAJ&hl=en) and most are available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Daniel+Simpson&terms-0-field=author&classification-physics_archives=all&classification-statistics=y&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&size=50&order=-announced_date_first).
+I am the Director of Analytics Engagement and a Professor in the Department of Econometrics and Business Statistics at Monash University, Melbourne. 
 
-Considerably less serious writing, which mostly consists of strange jokes that only I find funny, can be found [on Andrew Gelman's blog](https://statmodeling.stat.columbia.edu/author/simpson/), which I inexplicably have the keys to.
+As a statistician, I specialise in Bayesian and computational statistics, with a particular focus on building complex modelling workflows and pipelines. I've published extensively on all aspects of the Bayesian workflow, including prior specification, model criticism, model checking, and both exact and approximate inference. I've worked extensively on developing new approximate inference methods, Markov chain Monte Carlo methods, and methods for assess the quality of approximations to posterior distributions.
 
-### Bio sketch
-I have made major contributions to the understanding of computationally efficient methods in spatial statistics, and of how to specify prior distributions for complex Bayesian models. I have been a maintainer and developer on both the [R-INLA](http://r-inla.org/) and [Stan](http://mc-stan.org/) projects, which are widely used open source software projects popular in the applied statistics and scientific communities. I have also been a member of Stan’s leadership bodies, first the NumFOCUS board and then the Stan Governing Board that grew out from it.
+I also specialise in various types of flexibility modelling, including multilevel modelling and modelling spatial and spatiotemporal processes using computationally efficient Gaussian random fields (Gaussian processes). I've applied these methods to problems (both academic and commercial) in environmental science (specifically modelling air quality), electricity demand forecasting, and global health estimation. I am also extremely interested in working with survey data and other forms of non-representative data and have studied the foundations of the Multilevel Regression and Poststratification (MRP) method that has become increasingly popular in political and social sciences.
 
-Prior to starting at Monash, I was the Canadian Research Chair for Bayesian Spatiotemporal Modelling and an Associate Professor in the Department of Statistical Sciences at the University of Toronto, a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (a weird UK academic grade that simultaneously maps to full professor in the US and Associate Professor in Australia because why should words have meaning) at the University of Bath in the UK. I held postdoctoral positions at the  University of Warwick (CRiSM Fellow), the Norwegian University of Science and Technology (NTNU), University of Helsinki, and Umeå University.
+I have been a maintainer and developer on both the R-INLA (in the past) and Stan (currently) projects, which are widely used open source software projects popular in the applied statistics and scientific communities. I have also been a member of Stan’s leadership bodies, first the NumFOCUS board and then the Stan Governing Board that grew out from it.
+
+Prior to starting at Monash, I was the Canadian Research Chair for Bayesian Spatiotemporal Modelling and an Associate Professor in the Department of Statistical Sciences at the University of Toronto, a Reader (a weird UK academic grade that simultaneously maps to full professor in the US and Associate Professor in Australia because why should words have meaning) at the University of Bath in the UK. I held postdoctoral positions at the University of Warwick (CRiSM Fellow), the Norwegian University of Science and Technology (NTNU), University of Helsinki, and Umeå University.
+
+I have a [sporadically active blog](https://dansblog.netlify.app) that contains technical things (I'm sure you're not looking for [7k words on the technical definitions of Gaussian processes](https://dansblog.netlify.app/posts/2021-11-03-yes-but-what-is-a-gaussian-process-or-once-twice-three-times-a-definition-or-a-descent-into-madness/), but that's the sort of thing you can find). I also blog even more occasionally on on Andrew Gelman's blog](https://statmodeling.stat.columbia.edu/author/simpson/), which I inexplicably have the keys to.
+
+ Most of my papers are on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Daniel+Simpson&terms-0-field=author&classification-physics_archives=all&classification-statistics=y&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&size=50&order=-announced_date_first) or can be found through my Google Scholar page](https://scholar.google.co.uk/citations?user=oQIKmWUAAAAJ&hl=en) page.
+
+
+
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
