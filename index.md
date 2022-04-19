@@ -25,7 +25,7 @@ keywords: Bayesian modelling, Spatial statistics, Prior distributions, Computati
 ---
 
 
-I am the Director of Analytics Engagement and a Professor in the [Department of Econometrics and Business Statistics at Monash University](https://www.monash.edu/business/ebs), Melbourne. 
+I am the Director of Analytics Engagement and a Professor in the [Department of Econometrics and Business Statistics at Monash University](https://www.monash.edu/business/ebs), Melbourne.
 
 As a statistician, I specialise in Bayesian and computational statistics, with a particular focus on building complex modelling workflows and pipelines. I've published extensively on all aspects of the Bayesian workflow, including prior specification, model criticism, model checking, and both exact and approximate inference. I've worked extensively on developing new approximate inference methods, Markov chain Monte Carlo methods, and methods for assess the quality of approximations to posterior distributions.
 
@@ -37,7 +37,9 @@ Prior to starting at Monash, I was the Canadian Research Chair for Bayesian Spat
 
 I have a [sporadically active blog](https://dansblog.netlify.app) that contains technical things (I'm sure you're not looking for [7k words on the technical definitions of Gaussian processes](https://dansblog.netlify.app/posts/2021-11-03-yes-but-what-is-a-gaussian-process-or-once-twice-three-times-a-definition-or-a-descent-into-madness/), but that's the sort of thing you can find). I also blog even more occasionally on on Andrew Gelman's blog](https://statmodeling.stat.columbia.edu/author/simpson/), which I inexplicably have the keys to.
 
- Most of my papers are on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Daniel+Simpson&terms-0-field=author&classification-physics_archives=all&classification-statistics=y&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&size=50&order=-announced_date_first) or can be found through my Google Scholar page](https://scholar.google.co.uk/citations?user=oQIKmWUAAAAJ&hl=en) page.
+ Most of my papers are on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Daniel+Simpson&terms-0-field=author&classification-physics_archives=all&classification-statistics=y&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&size=50&order=-announced_date_first) or can be found through my [Google Scholar page](https://scholar.google.co.uk/citations?user=oQIKmWUAAAAJ&hl=en) page.
+
+ My long-form CV with publication list and other information [can be found here]({{ BASE_PATH }}/assets/CV_long.pdf).
 
 
 
